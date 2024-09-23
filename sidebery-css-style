@@ -108,9 +108,9 @@ body {
 }
 
 /* Uncomment this to apply Segoe UI Variable font - Make sure to install the font first */
-#root.root {
+/* #root.root {
   --tabs-font: 0.9375rem Segoe UI Variable Small, Segoe UI;
-}
+} */
 
 /* NEW TAB BUTTON*/
 .TabsPanel .new-tab-btns {

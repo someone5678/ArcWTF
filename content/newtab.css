@@ -49,7 +49,7 @@ url-prefix("about:home") {
 
 @-moz-document url(about:newtab), url(about:home){
   .logo-and-wordmark > .logo{
-   background-image: url("Arc.svg") !important;
+   background-image: url("FireFox.svg") !important;
    scale: 1.5;
   }
   .logo-and-wordmark > .wordmark{
