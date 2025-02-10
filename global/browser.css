@@ -167,6 +167,7 @@
   /* Apply colour to the frame around the browser window. */
   #browser {
     background-color:  var(--browser-frame-bgcolor, var(--lwt-accent-color));
+    background-image: none !important;
 
   /* Change colour of page when loading */
   #tabbrowser-tabpanels {
